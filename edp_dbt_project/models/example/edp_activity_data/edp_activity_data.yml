@@ -1,0 +1,15 @@
+version: 2
+
+models:
+  - name: edp_activity_data_capital_goods
+    description: 'Stores the spend (USD) associated with capital goods activity data'
+    columns:
+      - name: year
+      - name: month
+      - name: date_type
+      - name: country
+      - name: account_code
+        tests:
+          - not_null
+      - name: account_description
+      - name: spend_usd

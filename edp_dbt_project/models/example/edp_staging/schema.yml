@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: edp_staging # required
+    description: "Staging layer from the EDP load"
+    database: edpTestPool
+    schema: IMPORT_DATA
+    tables:
+      - name: cap_ex
+        description: 'Imported capital expenses file'
+      - name: account_mapping
+        description: 'Imported account descriptions by account code'
+      - name: org_mapping
+        description: 'Imported organization entity metadata'

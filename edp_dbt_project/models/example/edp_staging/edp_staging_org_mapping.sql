@@ -1,0 +1,19 @@
+
+with source_org_mapping as (select *
+from {{ source('edp_staging', 'org_mapping')}}
+),
+
+final as (
+    select PK_ID, CAST(HFM_NAME AS VARCHAR(255)) AS HFM_NAME,
+       CAST(DESCRIPTION AS VARCHAR(400)) AS DESCRIPTION,
+       CAST(HFM_PARENT_NAME AS VARCHAR(400)) AS HFM_PARENT_NAME,
+       CAST(PARENT_DESCRIPTION AS VARCHAR(400)) AS PARENT_DESCRIPTION,
+       CAST(LEAF AS VARCHAR(255)) AS LEAF,
+       CAST(HFM_DEFAULT_CURRENCY AS VARCHAR(255)) AS HFM_DEFAULT_CURRENCY,
+       CAST(COUNTRY AS VARCHAR(400)) AS COUNTRY,
+       CAST(CITY AS VARCHAR(400)) AS CITY,
+       LOAD_TIMESTAMP
+    from source_org_mapping
+)
+
+select * from final
