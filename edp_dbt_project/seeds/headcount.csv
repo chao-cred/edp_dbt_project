@@ -1,0 +1,101 @@
+primary_key,month,year,country,city,headcount,load_timestamp
+1,7,2022,Norway,Musakhel,53691,##########
+2,8,2022,Austria,Gönen,36455,##########
+3,6,2022,Peru,Baardegem,94140,##########
+4,4,2022,Pakistan,Lambayeque,74570,##########
+5,6,2022,Netherlands,Linköping,56081,##########
+6,6,2022,Australia,Goiânia,3221,##########
+7,4,2022,Canada,Pioneer,31029,##########
+8,12,2022,Mexico,Ikot Ekpene,44827,##########
+9,8,2022,Netherlands,Putre,27014,##########
+10,6,2022,Sweden,Borås,19500,##########
+11,2,2022,Turkey,Kempten,22088,##########
+12,7,2022,Indonesia,Galway,45984,##########
+13,12,2022,Belgium,Lambayeque,11553,##########
+14,11,2022,Peru,Naga,80113,##########
+15,11,2022,Austria,Challand-Saint-Victor,26670,##########
+16,5,2022,India,Primavera,55386,##########
+17,8,2022,Norway,Wagga Wagga,52414,##########
+18,4,2022,Ukraine,Galway,44374,##########
+19,12,2022,Australia,Fort McPherson,79137,##########
+20,11,2022,South Africa,Blue Mountains,91597,##########
+21,6,2022,Italy,Gary,42316,##########
+22,1,2022,South Africa,Yên Bái,61789,##########
+23,2,2022,Ireland,Paita,22382,##########
+24,9,2022,Singapore,Belfast,74472,##########
+25,8,2022,Netherlands,São José,6543,##########
+26,4,2022,Indonesia,Bida,8202,##########
+27,2,2022,Australia,Gansu,23459,##########
+28,7,2022,France,Hamburg,73512,##########
+29,5,2022,Australia,Vanderbijlpark,44227,##########
+30,5,2022,Brazil,Tam Điệp,56980,##########
+31,7,2022,Indonesia,Jayapura,63174,##########
+32,1,2022,Canada,Kimberley,79807,##########
+33,2,2022,Australia,Chepén,69654,##########
+34,5,2022,New Zealand,Greenlaw,49439,##########
+35,6,2022,Chile,Tolyatti,32392,##########
+36,11,2022,New Zealand,Samara,82948,##########
+37,11,2022,Indonesia,Negrete,33664,##########
+38,6,2022,Pakistan,Bremen,69485,##########
+39,5,2022,Australia,Kherson,11328,##########
+40,7,2022,Vietnam,Nova Kakhovka,42834,##########
+41,9,2022,Netherlands,Tibet,80763,##########
+42,8,2022,Australia,Yeosu,97232,##########
+43,7,2022,Pakistan,Pinkafeld,83168,##########
+44,11,2022,India,Varash,68350,##########
+45,9,2022,South Korea,Tampines,90487,##########
+46,12,2022,Norway,Zwolle,66602,##########
+47,9,2022,Germany,San Diego,6882,##########
+48,9,2022,South Korea,San Giacomo degli Schiavoni,39792,##########
+49,1,2022,Nigeria,Kaduna,64942,##########
+50,5,2022,Norway,Villeneuve-d'Ascq,6390,##########
+51,10,2022,Poland,Kuruman,79382,##########
+52,9,2022,Philippines,Spittal an der Drau,15875,##########
+53,10,2022,Norway,Tehuacán,55441,##########
+54,8,2022,Peru,Tuscaloosa,93341,##########
+55,6,2022,Russian Federation,Malaybalay,35507,##########
+56,7,2022,Spain,Kapfenberg,35749,##########
+57,4,2022,Brazil,San Francisco,72615,##########
+58,12,2022,Colombia,Polokwane,71045,##########
+59,9,2022,Netherlands,Marina East,52143,##########
+60,11,2022,Ireland,Ciudad Madero,98302,##########
+61,1,2022,Canada,Chełm,34605,##########
+62,10,2022,China,Jeju,26233,##########
+63,2,2022,Nigeria,Fredericton,37707,##########
+64,7,2022,Colombia,Barranca,40195,##########
+65,7,2022,Norway,Serangoon,26349,##########
+66,2,2022,Indonesia,Gorontalo,86444,##########
+67,8,2022,Ukraine,Argenteuil,98222,##########
+68,4,2022,Chile,Levin,963,##########
+69,4,2022,Poland,Skövde,28602,##########
+70,12,2022,Italy,Aparecida de Goiânia,15561,##########
+71,5,2022,Norway,Cascavel,96238,##########
+72,11,2022,Ireland,Cockburn,13049,##########
+73,9,2022,South Korea,Kursk,10951,##########
+74,4,2022,Chile,Uyo,59088,##########
+75,8,2022,India,Poitiers,68365,##########
+76,10,2022,Vietnam,Butte,19488,##########
+77,5,2022,New Zealand,Völkermarkt,10562,##########
+78,6,2022,Sweden,Qambar Shahdadkot,63301,##########
+79,5,2022,Singapore,Kongsvinger,81403,##########
+80,11,2022,Ukraine,Arviat,89534,##########
+81,10,2022,Brazil,San Rafael,33213,##########
+82,2,2022,Philippines,Akşehir,77733,##########
+83,10,2022,Poland,Guápiles,41469,##########
+84,12,2022,Canada,Berlin,12756,##########
+85,12,2022,Nigeria,Pasir Ris,16844,##########
+86,12,2022,United Kingdom,Queenstown,67353,##########
+87,8,2022,Sweden,Severodvinsk,71066,##########
+88,4,2022,Indonesia,Ceuta,9727,##########
+89,5,2022,Philippines,Hòa Bình,75444,##########
+90,4,2022,Australia,Wisbech,53758,##########
+91,12,2022,Netherlands,Boon Lay,59945,##########
+92,10,2022,Philippines,Bafra,20945,##########
+93,5,2022,India,Kidapawan,79614,##########
+94,2,2022,Costa Rica,Cottbus,71245,##########
+95,12,2022,Ukraine,Ibadan,10804,##########
+96,10,2022,Nigeria,Uyo,77415,##########
+97,2,2022,South Korea,Argyle,6567,##########
+98,4,2022,Chile,Kielce,95704,##########
+99,5,2022,Norway,Sudhanoti,46251,##########
+100,7,2022,Nigeria,Dipolog,31424,##########

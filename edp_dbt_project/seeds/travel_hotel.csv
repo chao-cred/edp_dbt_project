@@ -1,0 +1,101 @@
+primary_key,month,year,city,country,hotel_vendor,num_nights,unique_room_count,spend_usd,load_timestamp
+1,9,2022,Caldera,Vietnam,imperdiet,8,10,$990.21 ,##########
+2,7,2022,Buguma,Chile,lacus.,8,8,"$2,795.83 ",##########
+3,12,2022,Greater Hobart,Mexico,consectetuer,7,5,"$3,149.00 ",##########
+4,12,2022,Valfabbrica,Turkey,mus.,3,9,"$4,445.31 ",##########
+5,6,2022,Butte,Turkey,pede.,2,3,$131.38 ,##########
+6,8,2022,Montgomery,Germany,odio,10,1,"$3,851.04 ",##########
+7,2,2022,Assen,Mexico,"vitae,",7,2,"$1,580.49 ",##########
+8,6,2022,Bloemfontein,Austria,et,9,9,"$3,798.49 ",##########
+9,4,2022,Chattanooga,Indonesia,ac,6,9,"$3,575.86 ",##########
+10,11,2022,Río Bueno,Italy,diam,6,5,"$4,836.39 ",##########
+11,7,2022,Queenstown,Mexico,tincidunt,2,8,$152.99 ,##########
+12,7,2022,Arequipa,India,Cras,7,2,"$3,472.44 ",##########
+13,10,2022,Nelson,Norway,faucibus.,4,6,"$3,536.19 ",##########
+14,7,2022,Ferlach,New Zealand,lacinia,1,8,"$4,552.51 ",##########
+15,7,2022,Cúcuta,Netherlands,ipsum,3,4,$665.59 ,##########
+16,12,2022,Mykolaiv,United States,ligula,9,7,"$2,368.19 ",##########
+17,11,2022,Phalaborwa,Nigeria,amet,8,3,"$1,469.87 ",##########
+18,3,2022,Guardia Perticara,Pakistan,elit.,9,2,"$2,741.52 ",##########
+19,7,2022,Như Quỳnh,Pakistan,sit,8,7,"$3,317.58 ",##########
+20,9,2022,Valladolid,Ireland,ac,1,3,$596.78 ,##########
+21,10,2022,Tandag,Mexico,Donec,1,8,"$3,663.46 ",##########
+22,5,2022,Villers-Poterie,Vietnam,Sed,5,2,"$1,290.98 ",##########
+23,2,2022,Banda Aceh,Indonesia,Quisque,5,10,"$3,829.14 ",##########
+24,11,2022,Bắc Giang,United States,Suspendisse,6,2,$501.70 ,##########
+25,9,2022,Brisbane,New Zealand,ipsum,9,7,$927.18 ,##########
+26,8,2022,Hatfield,Philippines,euismod,9,2,"$3,802.71 ",##########
+27,6,2022,Huaraz,Norway,Aliquam,6,7,"$2,909.11 ",##########
+28,8,2022,Dresden,Mexico,pellentesque.,8,3,"$2,883.91 ",##########
+29,1,2022,Alanya,Peru,"sed,",2,6,"$4,590.41 ",##########
+30,7,2022,Seshego,Canada,"ac,",6,7,"$2,384.49 ",##########
+31,3,2022,Katowice,United States,Suspendisse,4,4,"$1,112.19 ",##########
+32,6,2022,Steinkjer,Costa Rica,consectetuer,2,6,"$4,473.99 ",##########
+33,4,2022,Kalat,Norway,sed,7,7,"$1,780.74 ",##########
+34,5,2022,Tejar,Nigeria,"sapien,",2,4,"$2,372.63 ",##########
+35,4,2022,Carluke,New Zealand,velit,2,3,"$3,258.28 ",##########
+36,8,2022,Hofors,Ukraine,a,2,2,"$2,031.35 ",##########
+37,11,2022,Workington,Philippines,quis,6,9,"$2,213.85 ",##########
+38,4,2022,Puerto Princesa,South Africa,neque,3,2,$60.26 ,##########
+39,7,2022,Mora,Peru,Praesent,6,9,"$1,164.86 ",##########
+40,2,2022,Telfs,Ukraine,Donec,7,4,"$1,662.39 ",##########
+41,5,2022,Kano,Netherlands,arcu.,2,10,"$2,645.01 ",##########
+42,5,2022,Chulucanas,China,Phasellus,10,5,"$1,378.09 ",##########
+43,7,2022,Berdychiv,Singapore,molestie,2,6,"$4,156.50 ",##########
+44,2,2022,Warri,Austria,interdum.,6,3,"$3,835.36 ",##########
+45,2,2022,Haveli,Peru,Phasellus,4,3,"$3,810.04 ",##########
+46,8,2022,Gorzów Wielkopolski,New Zealand,adipiscing,4,6,"$1,849.15 ",##########
+47,9,2022,Changi,Mexico,"placerat,",9,4,"$2,950.92 ",##########
+48,6,2022,Funtua,Australia,ipsum.,5,2,$792.78 ,##########
+49,2,2022,Milnathort,Netherlands,accumsan,3,5,"$2,924.35 ",##########
+50,2,2022,Villahermosa,Indonesia,erat,9,2,"$4,313.17 ",##########
+51,11,2022,Auburn,Costa Rica,habitant,1,1,"$4,162.09 ",##########
+52,7,2022,Pachuca,South Africa,sem,6,7,"$3,425.35 ",##########
+53,7,2022,Elx,Spain,tincidunt,3,4,"$3,401.73 ",##########
+54,5,2022,Pfungstadt,Spain,Sed,9,4,$798.34 ,##########
+55,7,2022,Calbuco,Austria,euismod,10,6,"$1,847.42 ",##########
+56,2,2022,Salzwedel,India,Mauris,6,3,"$3,257.38 ",##########
+57,12,2022,Ockelbo,France,enim,10,2,"$3,051.16 ",##########
+58,3,2022,Izium,Ukraine,Curabitur,6,8,$378.55 ,##########
+59,6,2022,Bida,Pakistan,augue.,2,3,"$1,594.33 ",##########
+60,9,2022,Cambridge Bay,Pakistan,mauris.,7,6,$559.40 ,##########
+61,11,2022,Portland,Turkey,sit,8,7,$752.31 ,##########
+62,4,2022,Brisbane,Norway,Sed,3,2,"$4,100.30 ",##########
+63,8,2022,Gore,Canada,gravida,5,2,"$2,314.45 ",##########
+64,2,2022,Primavera,South Korea,luctus,9,8,"$3,994.21 ",##########
+65,9,2022,Soweto,Philippines,non,9,7,"$3,714.05 ",##########
+66,11,2022,Viggiano,United States,nisi.,7,2,"$1,651.33 ",##########
+67,8,2022,Bajaur Agency,Ukraine,"purus,",8,3,"$4,610.01 ",##########
+68,12,2022,Cork,China,congue.,8,10,"$2,990.59 ",##########
+69,8,2022,Stratford,China,ac,9,5,"$3,816.06 ",##########
+70,11,2022,Museum,Chile,Phasellus,3,7,"$1,511.98 ",##########
+71,5,2022,El Tambo,South Korea,Etiam,8,6,"$4,719.89 ",##########
+72,12,2022,Saint-Lô,New Zealand,malesuada,9,7,"$2,916.79 ",##########
+73,7,2022,Morrinsville,Spain,hendrerit,3,4,$702.97 ,##########
+74,11,2022,Oudtshoorn,Poland,aliquam,5,1,"$1,951.57 ",##########
+75,11,2022,Arequipa,Philippines,Nunc,4,6,"$1,891.13 ",##########
+76,6,2022,Temuka,United States,sit,2,4,"$3,570.82 ",##########
+77,5,2022,Agen,Spain,porttitor,8,10,$236.86 ,##########
+78,10,2022,Cajamarca,Peru,cursus.,8,3,"$3,431.50 ",##########
+79,10,2022,Cusco,Belgium,Aenean,9,7,"$3,094.20 ",##########
+80,10,2022,Almere,Indonesia,in,10,1,$324.18 ,##########
+81,9,2022,Talisay,Brazil,Vivamus,3,1,"$3,066.86 ",##########
+82,3,2022,Laurencekirk,Poland,luctus,9,5,"$4,290.50 ",##########
+83,4,2022,Birmingham,Chile,dis,9,9,"$4,676.61 ",##########
+84,3,2022,Te Puke,India,sagittis,10,7,"$2,145.72 ",##########
+85,6,2022,Spijkenisse,Poland,euismod,10,2,"$1,332.79 ",##########
+86,1,2022,Cúcuta,Netherlands,eros,5,4,"$1,618.73 ",##########
+87,3,2022,Paya Lebar,India,egestas.,1,9,"$2,828.40 ",##########
+88,7,2022,Abeokuta,Belgium,Cras,5,2,"$3,315.97 ",##########
+89,4,2022,Máfil,United States,eget,1,5,$56.42 ,##########
+90,5,2022,Galway,Peru,Integer,4,10,"$3,370.33 ",##########
+91,7,2022,Vienna,Costa Rica,Donec,8,3,"$4,932.42 ",##########
+92,3,2022,Gisborne,Pakistan,"a,",5,4,"$1,270.45 ",##########
+93,12,2022,Bremerhaven,Indonesia,Sed,10,5,"$1,960.30 ",##########
+94,7,2022,Kupang,Indonesia,orci,9,9,"$2,162.32 ",##########
+95,10,2022,Topeka,Vietnam,Maecenas,8,3,"$2,285.53 ",##########
+96,10,2022,Oberpullendorf,Peru,porttitor,6,6,"$2,653.95 ",##########
+97,9,2022,Rawalpindi,Costa Rica,senectus,3,8,"$1,863.98 ",##########
+98,2,2022,Mthatha,Austria,non,7,9,"$2,939.01 ",##########
+99,5,2022,Namyangju,United States,sit,5,4,"$4,774.00 ",##########
+100,4,2022,Oryol,Norway,purus.,4,9,"$2,164.24 ",##########

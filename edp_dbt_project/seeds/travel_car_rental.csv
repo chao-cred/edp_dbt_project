@@ -1,0 +1,101 @@
+primary_key,month,year,city,country,car_type,rental_mileage,spend_usd,load_timestamp
+1,2,2022,Odessa,Norway,vehicula,36849,"$2,077.35 ",##########
+2,9,2022,Trà Vinh,Canada,lorem,17557,$715.31 ,##########
+3,5,2022,Bauchi,China,elit,12744,$67.46 ,##########
+4,9,2022,Tarma,Colombia,"luctus,",50690,$302.54 ,##########
+5,8,2022,Pike Creek,Vietnam,euismod,12036,$845.58 ,##########
+6,9,2022,Uddevalla,Canada,magnis,5556,"$4,267.63 ",##########
+7,7,2022,Starachowice,Indonesia,mauris,53589,$313.99 ,##########
+8,9,2022,Carmen de Bolivar,South Africa,lobortis,72205,"$1,394.52 ",##########
+9,9,2022,Manizales,Turkey,interdum.,85415,"$1,799.60 ",##########
+10,9,2022,Facatativá,Philippines,at,60120,"$3,458.52 ",##########
+11,12,2022,Maringá,Peru,penatibus,73440,"$2,104.54 ",##########
+12,8,2022,Shimla,Russian Federation,Cras,67114,"$4,142.89 ",##########
+13,8,2022,Landeck,Belgium,nonummy,74388,"$4,483.48 ",##########
+14,12,2022,Lisieux,India,mauris,31184,"$3,074.05 ",##########
+15,9,2022,Yishun,Chile,Duis,87197,"$2,848.88 ",##########
+16,10,2022,Hunan,United Kingdom,magna.,44284,"$4,629.81 ",##########
+17,4,2022,Auxerre,China,ornare,70428,$440.02 ,##########
+18,9,2022,Nogales,Turkey,egestas.,19600,"$2,173.07 ",##########
+19,7,2022,Okene,France,et,77779,"$3,037.77 ",##########
+20,4,2022,Poitiers,Ireland,volutpat.,61528,"$1,226.06 ",##########
+21,11,2022,Columbus,Brazil,penatibus,62694,"$4,811.55 ",##########
+22,8,2022,Raurkela,Vietnam,vehicula.,73185,"$1,848.14 ",##########
+23,10,2022,Calvi Risorta,Brazil,molestie,61804,$159.45 ,##########
+24,2,2022,Mandurah,Chile,consectetuer,24270,"$2,061.53 ",##########
+25,1,2022,Combarbalá,United Kingdom,egestas.,9366,"$2,139.41 ",##########
+26,3,2022,Marystown,Norway,urna.,87908,"$3,546.58 ",##########
+27,12,2022,Jiangsu,Indonesia,Fusce,5482,"$1,872.29 ",##########
+28,6,2022,Lienz,Vietnam,leo.,60583,"$2,529.97 ",##########
+29,8,2022,Ilesa,New Zealand,blandit,94264,"$2,910.79 ",##########
+30,5,2022,Ålesund,Brazil,interdum.,35077,"$1,554.26 ",##########
+31,2,2022,Haugesund,Pakistan,"at,",77305,$462.96 ,##########
+32,4,2022,Algeciras,Costa Rica,"nunc,",37357,"$2,684.17 ",##########
+33,4,2022,Hapur,Mexico,arcu,95253,"$4,533.81 ",##########
+34,7,2022,Kabankalan,France,enim,38828,"$2,515.80 ",##########
+35,11,2022,Chishtian Mandi,Australia,luctus,94626,"$1,574.35 ",##########
+36,1,2022,Nicoya,Norway,lectus.,24886,"$2,617.61 ",##########
+37,1,2022,Jakarta,Turkey,"est,",16651,"$1,293.80 ",##########
+38,2,2022,Zwolle,Canada,mollis.,86650,$585.44 ,##########
+39,8,2022,Dublin,New Zealand,ipsum,94907,$754.56 ,##########
+40,8,2022,De Haan,Nigeria,in,83763,"$4,251.84 ",##########
+41,9,2022,Norrköping,Austria,nibh,51619,$52.21 ,##########
+42,4,2022,Redlands,Belgium,Mauris,77304,"$2,750.84 ",##########
+43,2,2022,Newcastle,Turkey,convallis,24015,"$4,097.45 ",##########
+44,7,2022,Kohima,New Zealand,Nulla,26002,"$1,153.39 ",##########
+45,10,2022,Uppingham. Cottesmore,United Kingdom,at,37604,"$3,304.08 ",##########
+46,11,2022,Olsztyn,Ireland,tristique,15050,"$2,624.81 ",##########
+47,8,2022,Macau,Ireland,metus,39874,"$3,327.44 ",##########
+48,10,2022,Blenheim,Ukraine,euismod,4999,"$2,611.45 ",##########
+49,1,2022,Vladimir,China,In,9578,$623.41 ,##########
+50,2,2022,Naperville,Peru,a,67463,"$3,141.69 ",##########
+51,7,2022,Bắc Giang,Nigeria,quis,67367,"$4,775.17 ",##########
+52,5,2022,Poitiers,China,odio.,9207,"$3,664.73 ",##########
+53,12,2022,Cần Thơ,Philippines,velit.,30709,"$1,179.45 ",##########
+54,11,2022,Lelystad,Austria,aliquet.,49863,"$1,262.64 ",##########
+55,3,2022,Okpoko,Germany,metus.,16484,$820.76 ,##########
+56,8,2022,Izmir,Vietnam,consectetuer,39945,"$4,810.03 ",##########
+57,7,2022,Hérouville-Saint-Clair,Indonesia,taciti,54811,"$2,789.58 ",##########
+58,9,2022,Rio Verde,Germany,Nulla,25731,"$3,459.12 ",##########
+59,6,2022,Starachowice,France,"ut,",82704,"$1,802.62 ",##########
+60,7,2022,Avesta,France,mauris,43119,"$4,353.11 ",##########
+61,5,2022,Dublin,Russian Federation,enim.,84050,$95.13 ,##########
+62,9,2022,Freirina,Vietnam,pede.,51568,"$1,863.45 ",##########
+63,1,2022,Palmira,Nigeria,quis,74443,$64.99 ,##########
+64,4,2022,Westmalle,Netherlands,dis,99936,$113.70 ,##########
+65,8,2022,Tabuk,France,leo.,41236,$131.33 ,##########
+66,3,2022,Torghar,Chile,fermentum,71043,"$4,010.66 ",##########
+67,5,2022,Brixton,Germany,ullamcorper,94461,"$2,868.02 ",##########
+68,6,2022,Juliaca,Turkey,interdum,9023,$764.86 ,##########
+69,3,2022,Meppel,Mexico,mauris,85082,"$3,321.42 ",##########
+70,6,2022,Quinte West,China,Suspendisse,42201,"$3,849.58 ",##########
+71,11,2022,Adelaide,Chile,risus.,37752,"$4,880.70 ",##########
+72,12,2022,Sanghar,Singapore,mollis,20656,"$4,179.62 ",##########
+73,5,2022,Berlin,Philippines,erat,75119,$603.76 ,##########
+74,10,2022,Nha Trang,Costa Rica,magna,71669,"$4,699.53 ",##########
+75,7,2022,Riohacha,Philippines,lectus,43282,"$3,920.01 ",##########
+76,6,2022,Kircudbright,Belgium,sollicitudin,50981,"$2,815.32 ",##########
+77,11,2022,Kirkwall,Poland,ac,43083,$82.49 ,##########
+78,3,2022,Cincinnati,Netherlands,Aliquam,71082,"$1,249.92 ",##########
+79,3,2022,Gboko,Peru,ac,15542,$70.71 ,##########
+80,12,2022,Shanghai,Peru,odio.,60878,$27.96 ,##########
+81,8,2022,Liberia,Chile,sed,38648,$801.06 ,##########
+82,8,2022,Quezon City,South Korea,ac,61869,$714.82 ,##########
+83,3,2022,Gaziantep,Australia,"vel,",45377,"$2,921.38 ",##########
+84,8,2022,Bhubaneswar,Chile,tellus.,12074,$923.39 ,##########
+85,12,2022,Winnipeg,Chile,luctus.,37810,"$3,534.52 ",##########
+86,1,2022,Tasikmalaya,Italy,sit,94475,"$2,515.45 ",##########
+87,5,2022,Silifke,France,eu,52988,"$2,339.24 ",##########
+88,6,2022,Punggol,South Korea,aliquet.,13788,"$1,539.59 ",##########
+89,11,2022,Makassar,Costa Rica,auctor,64872,"$1,047.45 ",##########
+90,1,2022,Punta Arenas,France,pede.,54025,$588.30 ,##########
+91,5,2022,Candon,Russian Federation,Integer,2683,"$3,297.30 ",##########
+92,7,2022,Macau,Canada,Cras,48508,"$1,312.34 ",##########
+93,8,2022,Bida,South Korea,nisi,44198,"$1,530.60 ",##########
+94,11,2022,Whitehorse,Ukraine,parturient,62382,"$1,878.95 ",##########
+95,11,2022,Cork,Mexico,elit.,12312,"$2,139.80 ",##########
+96,9,2022,Vienna,Brazil,Sed,70790,$285.78 ,##########
+97,7,2022,Newton,Italy,"orci,",96504,$63.67 ,##########
+98,11,2022,Western Water Catchment,Chile,aliquet,30675,"$4,422.71 ",##########
+99,3,2022,Mapiripana,Philippines,est.,58887,"$1,351.56 ",##########
+100,1,2022,Thames,India,elit.,32017,"$3,756.33 ",##########

@@ -1,0 +1,101 @@
+primary_key,year,month,date_type,country,account_code,spend_usd,load_timestamp
+1,2023,11,YTD,Peru,6626XJMNX,29455.78,##########
+2,2022,9,YTD,Chile,6626XJMNX,83133.13,##########
+3,2022,7,YTD,Italy,8908OIRWX,77189.96,##########
+4,2022,9,YTD,Indonesia,8908OIRWX,-8871.69,##########
+5,2023,8,YTD,Austria,6364XYDPU,81262.58,##########
+6,2023,2,YTD,Germany,6364XYDPU,-35297.71,##########
+7,2023,7,YTD,Poland,7363BUTUZ,76037.39,##########
+8,2023,3,YTD,Vietnam,7363BUTUZ,58078.90,##########
+9,2023,12,YTD,Pakistan,7840TWRPI,43212.76,##########
+10,2022,10,YTD,France,7840TWRPI,44416.73,##########
+11,2023,1,YTD,Australia,5674UEPWQ,67381.83,##########
+12,2022,10,YTD,Turkey,5674UEPWQ,97818.27,##########
+13,2023,12,YTD,Chile,4675UIHLO,-39291.90,##########
+14,2023,8,YTD,Canada,4675UIHLO,64528.28,##########
+15,2023,5,YTD,Ireland,3777FKGYT,-6774.83,##########
+16,2022,10,YTD,Pakistan,3777FKGYT,-23586.16,##########
+17,2023,7,YTD,Belgium,3817KHBNO,26823.20,##########
+18,2022,6,YTD,Peru,3817KHBNO,-84851.87,##########
+19,2024,1,YTD,United Kingdom,9677OLHYV,73480.90,##########
+20,2023,4,YTD,Vietnam,9677OLHYV,-6445.08,##########
+21,2024,11,YTD,Germany,6626XJMNX,-90745.82,##########
+22,2024,1,YTD,Canada,6626XJMNX,-40028.76,##########
+23,2023,10,YTD,Turkey,8908OIRWX,-26129.60,##########
+24,2023,5,YTD,Colombia,8908OIRWX,-69229.84,##########
+25,2023,5,YTD,Turkey,6364XYDPU,-41123.72,##########
+26,2023,11,YTD,Austria,6364XYDPU,16602.21,##########
+27,2022,10,YTD,Costa Rica,7363BUTUZ,65454.13,##########
+28,2024,11,YTD,Ukraine,7363BUTUZ,42075.90,##########
+29,2024,5,YTD,China,7840TWRPI,-98101.20,##########
+30,2023,10,YTD,France,7840TWRPI,73975.10,##########
+31,2023,6,YTD,Philippines,5674UEPWQ,-69015.07,##########
+32,2023,4,YTD,Norway,5674UEPWQ,82333.38,##########
+33,2023,6,YTD,Australia,4675UIHLO,48856.05,##########
+34,2023,4,YTD,India,4675UIHLO,-79665.44,##########
+35,2022,9,YTD,Colombia,3777FKGYT,46449.88,##########
+36,2023,12,YTD,United States,3777FKGYT,-54034.31,##########
+37,2023,10,YTD,Pakistan,3817KHBNO,17988.23,##########
+38,2022,10,YTD,Mexico,3817KHBNO,75302.27,##########
+39,2024,9,YTD,United States,9677OLHYV,81635.51,##########
+40,2023,10,YTD,New Zealand,9677OLHYV,-18551.60,##########
+41,2022,8,YTD,Poland,6626XJMNX,20724.68,##########
+42,2022,6,YTD,Australia,6626XJMNX,-14291.41,##########
+43,2022,3,YTD,Austria,8908OIRWX,79886.58,##########
+44,2023,11,YTD,Philippines,8908OIRWX,73871.33,##########
+45,2024,7,YTD,Costa Rica,6364XYDPU,43745.39,##########
+46,2023,12,YTD,Russian Federation,6364XYDPU,70769.49,##########
+47,2022,9,YTD,Ireland,7363BUTUZ,-5640.15,##########
+48,2024,10,YTD,Brazil,7363BUTUZ,51077.66,##########
+49,2023,12,YTD,Norway,7840TWRPI,-48030.95,##########
+50,2022,10,YTD,Indonesia,7840TWRPI,-23125.44,##########
+51,2022,4,YTD,Colombia,5674UEPWQ,83786.63,##########
+52,2023,3,YTD,Netherlands,5674UEPWQ,76112.78,##########
+53,2022,5,YTD,Ukraine,4675UIHLO,-68318.70,##########
+54,2023,12,YTD,Australia,4675UIHLO,-27333.17,##########
+55,2022,3,YTD,Austria,3777FKGYT,91413.84,##########
+56,2023,12,YTD,Brazil,3777FKGYT,-67817.44,##########
+57,2023,9,YTD,Italy,3817KHBNO,-37820.06,##########
+58,2023,5,YTD,United Kingdom,3817KHBNO,3389.95,##########
+59,2023,12,YTD,Belgium,9677OLHYV,75746.25,##########
+60,2023,11,YTD,South Korea,9677OLHYV,30046.27,##########
+61,2023,5,YTD,South Korea,6626XJMNX,-50000.80,##########
+62,2023,1,YTD,Austria,6626XJMNX,-73654.61,##########
+63,2022,8,YTD,Singapore,8908OIRWX,18174.42,##########
+64,2024,7,YTD,Philippines,8908OIRWX,6448.16,##########
+65,2023,2,YTD,Singapore,6364XYDPU,89887.69,##########
+66,2022,8,YTD,Spain,6364XYDPU,95451.57,##########
+67,2022,1,YTD,Netherlands,7363BUTUZ,-15553.35,##########
+68,2023,12,YTD,Vietnam,7363BUTUZ,40158.94,##########
+69,2023,8,YTD,Spain,7840TWRPI,-47160.11,##########
+70,2024,10,YTD,South Korea,7840TWRPI,-43278.22,##########
+71,2022,2,YTD,Nigeria,5674UEPWQ,-32739.73,##########
+72,2022,1,YTD,Netherlands,5674UEPWQ,-19350.61,##########
+73,2022,10,YTD,Philippines,4675UIHLO,-95306.22,##########
+74,2022,3,YTD,Turkey,4675UIHLO,75134.29,##########
+75,2024,10,YTD,South Korea,3777FKGYT,-16724.81,##########
+76,2023,7,YTD,Vietnam,3777FKGYT,-28806.07,##########
+77,2022,2,YTD,India,3817KHBNO,-95093.60,##########
+78,2023,5,YTD,Mexico,3817KHBNO,84108.85,##########
+79,2022,3,YTD,South Africa,9677OLHYV,-3414.76,##########
+80,2022,11,YTD,Ukraine,9677OLHYV,-10537.75,##########
+81,2023,2,YTD,Sweden,6626XJMNX,52971.02,##########
+82,2023,5,YTD,Nigeria,6626XJMNX,32513.05,##########
+83,2023,7,YTD,Sweden,8908OIRWX,-23.72,##########
+84,2023,7,YTD,New Zealand,8908OIRWX,-68004.39,##########
+85,2022,4,YTD,Chile,6364XYDPU,-90699.47,##########
+86,2023,2,YTD,Sweden,6364XYDPU,-68833.54,##########
+87,2022,10,YTD,Colombia,7363BUTUZ,-18323.65,##########
+88,2023,1,YTD,Peru,7363BUTUZ,-48098.23,##########
+89,2024,4,YTD,Netherlands,7840TWRPI,32143.61,##########
+90,2022,3,YTD,Russian Federation,7840TWRPI,-85112.88,##########
+91,2024,6,YTD,Belgium,5674UEPWQ,-88589.77,##########
+92,2023,6,YTD,Poland,5674UEPWQ,38870.14,##########
+93,2024,8,YTD,Russian Federation,4675UIHLO,52151.60,##########
+94,2022,10,YTD,Mexico,4675UIHLO,35520.36,##########
+95,2022,6,YTD,Brazil,3777FKGYT,-42084.57,##########
+96,2023,12,YTD,Pakistan,3777FKGYT,-90619.26,##########
+97,2022,11,YTD,Peru,3817KHBNO,-4968.90,##########
+98,2023,11,YTD,Belgium,3817KHBNO,-90217.91,##########
+99,2024,7,YTD,United Kingdom,9677OLHYV,-73172.85,##########
+100,2023,5,YTD,Russian Federation,9677OLHYV,-85449.09,##########

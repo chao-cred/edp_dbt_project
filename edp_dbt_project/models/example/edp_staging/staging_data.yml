@@ -16,9 +16,11 @@ models:
         tests:
           - unique
           - not_null
-  - name: edp_staging_org_mapping
-    columns:
-      - name: hfm_name
-        tests:
-          - unique
-          - not_null
+  - name: edp_staging_fleet_records
+  - name: edp_staging_op_ex
+  - name: edp_staging_facilities_data
+  - name: edp_staging_travel_air
+  - name: edp_staging_travel_hotel
+  - name: edp_staging_travel_car
+  - name: edp_staging_utility_usage
+  - name: edp_staging_headcount

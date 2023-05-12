@@ -1,7 +1,7 @@
 version: 2
 
 sources:
-  - name: edp_staging # required
+  - name: edp_staging # Update references to match import table references below, then update staging layer models to reference these tables, rather than seed files
     description: "Staging layer from the EDP load"
     database: edpTestPool
     schema: IMPORT_DATA
@@ -10,5 +10,20 @@ sources:
         description: 'Imported capital expenses file'
       - name: account_mapping
         description: 'Imported account descriptions by account code'
-      - name: org_mapping
-        description: 'Imported organization entity metadata'
+      - name: fleet_records
+        description: 'Imported fleet lease records'
+      - name: op_ex
+        description: 'Imported operational expenses file'
+      - name: foundation_data
+        description: 'Imported facilities data'
+      - name: bcd_air_travel
+        description: 'Imported air travel mileage'
+      - name: bcd_hotel_travel
+        description: 'Imported hotel travel nights'
+      - name: bcd_car_travel
+        description: 'Imported car travel spend'
+      - name: utility_irp
+        description: 'Imported utility consumption data'
+      - name: headcount
+        description: 'Imported headcount data'
+  

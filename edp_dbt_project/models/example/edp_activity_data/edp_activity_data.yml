@@ -13,3 +13,91 @@ models:
           - not_null
       - name: account_description
       - name: spend_usd
+  - name: edp_activity_data_purchased_goods_and_services
+    description: 'Stores the spend (USD) associated with purchased goods and services activity data'
+    columns:
+      - name: year
+      - name: month
+      - name: date_type
+      - name: country
+      - name: account_code
+        tests:
+          - not_null
+      - name: account_description
+      - name: spend_usd
+  - name: edp_activity_data_monthly_fleet_mileage
+    description: 'Stores the monthly fleet leased mileage'
+    columns:
+      - name: country
+      - name: make
+      - name: model
+      - name: fuel_type
+      - name: month
+      - name: year 
+      - name: kilometers
+  - name: edp_activity_data_facilities
+    description: 'Stores the monthly facilities records'
+    columns:
+      - name: month
+      - name: year
+      - name: property_id
+      - name: property_type 
+      - name: address 
+      - name: city 
+      - name: country
+      - name: zip 
+      - name: region 
+      - name: lease_structure 
+      - name: building_total_sf
+  - name: edp_activity_data_travel_air
+    description: 'Stores the air travel mileage records. Mileage is the more robust metric, but spend is a substitute. Carrier is not used for calculations'
+    columns:
+      - name: month
+      - name: year 
+      - name: cabin
+      - name: carrier_name
+      - name: mileage
+      - name: spend_usd
+  - name: edp_activity_data_travel_hotel
+    description: 'Stores the hotel travel nights records. Nights is the more robust metric, but spend is a substitute.'
+    columns:
+      - name: month
+      - name: year 
+      - name: city
+      - name: country
+      - name: hotel_vendor
+      - name: total_nights
+      - name: spend_usd
+  - name: edp_activity_data_travel_car
+    description: 'Stores the car rental spend records. Mileage is the more robust metric, but spend is a substitute.'
+    columns:
+      - name: month
+      - name: year 
+      - name: city
+      - name: country
+      - name: car_type
+      - name: rental_mileage
+      - name: spend_usd
+  - name: edp_activity_data_utility_usage
+    description: 'Stores the utility usage records matched to each facility record'
+    columns:
+      - name: month
+      - name: year
+      - name: property_id 
+      - name: city 
+      - name: state
+      - name: country
+      - name: zip
+      - name: region
+      - name: electricity_nonrenewable_kwh
+      - name: electricity_renewable_kwh
+      - name: fuel_oil_liters
+      - name: natural_gas_kwh
+  - name: edp_activity_data_headcount
+    description: 'Stores the headcount records'
+    columns:
+      - name: month
+      - name: year
+      - name: city 
+      - name: country 
+      - name: headcount

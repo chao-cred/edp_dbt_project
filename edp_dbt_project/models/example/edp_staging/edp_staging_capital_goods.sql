@@ -1,7 +1,7 @@
-
+{{ config(materialized='table') }}
 
 with source_cap_ex as (select *
-from {{ source('edp_staging', 'cap_ex')}}
+from {{ ref('cap_ex')}}
 ),
 
 final as (
