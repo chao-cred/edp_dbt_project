@@ -2,7 +2,7 @@ version: 2
 
 sources:
   - name: edp_staging # Update references to match import table references below, then update staging layer models to reference these tables, rather than seed files
-    description: "Staging layer from the EDP load"
+    description: "Import layer from the EDP load. Update this source data to reference the desired import schema"
     database: edpTestPool
     schema: IMPORT_DATA
     tables:
